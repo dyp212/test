@@ -1,0 +1,27 @@
+111:{"persistentId":"10070a29b477df6c4e5eadf05859a452667b","bucket":"xiaozaiwh",
+"urls":["http://wsstore.xiaozaiwh.com/live-cc8b3cd4c3c44a49b4a0231e5b872aa2--20160909171804.m3u8"],
+"ops":"wsrecord/m3u8/segtime/15/vcodec/copy/acodec/copy|saveas/eGlhb3phaXdoOiQoc3RyZWFtbmFtZSktJCh0aW1lc3RhbXAp",
+"code":1,"keys":["xiaozaiwh:live-cc8b3cd4c3c44a49b4a0231e5b872aa2--20160909171804.m3u8"],
+"detail":[{
+	"duration":64.166,"fsize":521,"startTime":"20160909171804","endTime":"20160909172003",
+	"key":"xiaozaiwh:live-cc8b3cd4c3c44a49b4a0231e5b872aa2--20160909171804.m3u8",
+	"url":"http://wsstore.xiaozaiwh.com/live-cc8b3cd4c3c44a49b4a0231e5b872aa2--20160909171804.m3u8",
+	"hash":"FmMz6LQzr7THNSo4U8Qahyw-ht2E"
+	}],
+"error":null,"streamname":"live-cc8b3cd4c3c44a49b4a0231e5b872aa2.flv","desc":"fileOperateActive"}
+
+
+
+ss:{"items":[{"persistentId":"10075af2e5eee63b4d6cb0a0965bad51fa76","streamname":"live.flv","ops":"wsrecord/m3u8/segtime/15/vcodec/copy/acodec/copy|saveas/eGlhb3phaXdoOiQoc3RyZWFtbmFtZSktJCh0aW1lc3RhbXAp","bucket":"xiaozaiwh","code":1,"desc":"fileOperateActive","error":null,"keys":["xiaozaiwh:live--20160910181934.m3u8"],"urls":["http://wsstore.xiaozaiwh.com/live--20160910181934.m3u8"],
+"detail":[{"key":"xiaozaiwh:live--20160910181934.m3u8","url":"http://wsstore.xiaozaiwh.com/live--20160910181934.m3u8","duration":638.717,"hash":"FsTxzHho0m4FEmssJppYKrNKp6-6","fsize":3637,"startTime":"20160910181934","endTime":"20160910183106"}]}],
+"batch_notify_id":null}
+
+111:{"persistentId":"10075af2e5eee63b4d6cb0a0965bad51fa76","bucket":"xiaozaiwh",
+"urls":["http://wsstore.xiaozaiwh.com/live--20160910181934.m3u8"],
+"ops":"wsrecord/m3u8/segtime/15/vcodec/copy/acodec/copy|saveas/eGlhb3phaXdoOiQoc3RyZWFtbmFtZSktJCh0aW1lc3RhbXAp",
+"code":1,"keys":["xiaozaiwh:live--20160910181934.m3u8"],
+"detail":[{"duration":638.717,"fsize":3637,"startTime":"20160910181934","endTime":"20160910183106","key":"xiaozaiwh:live--20160910181934.m3u8","url":"http://wsstore.xiaozaiwh.com/live--20160910181934.m3u8","hash":"FsTxzHho0m4FEmssJppYKrNKp6-6"}],
+"error":null,"streamname":"live.flv","desc":"fileOperateActive"
+}
+
+
